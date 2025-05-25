@@ -93,5 +93,5 @@ public class Main {
         }
         System.out.println("学生一覧：");
         studentMap.forEach((name, score) -> System.out.println(name + "：" + score + "点"));
-    }//入力をGitHub上でReadmeを編集して上記プログラムを入力してみた。どうなるのかためします。
+    }//入力をGitHub上でReadmeを編集して上記プログラムを入力してみた。どうなるのかためします。//試しましたが？。コード表示は可能。
 }
